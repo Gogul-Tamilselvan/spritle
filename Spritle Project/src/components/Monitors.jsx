@@ -77,9 +77,12 @@ const postData =async (e)=>{
       </div>
       <div className="modal-body">
       <form onSubmit={postData} className="container ">
+      <p>Refer Readme.md for data format </p>
               <div className="row d-flex justify-content-center border py-5 px-0 bg-light">
+             
                 <div className="col-md-12">
                   <div className="mb-3">
+                  
                     <label
                       htmlFor="exampleFormControlInput1"
                       className="form-label"
